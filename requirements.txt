@@ -10,3 +10,4 @@ pyarrow
 openpyxl
 lxml
 html5lib
+gunicorn
