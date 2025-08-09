@@ -1,0 +1,6 @@
+flask
+uvicorn
+pandas
+matplotlib
+requests
+beautifulsoup4
