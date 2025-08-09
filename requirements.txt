@@ -1,14 +1,10 @@
 flask
-uvicorn
 pandas
+numpy
 matplotlib
 requests
-beautifulsoup4
-flask
-uvicorn
-pandas
-matplotlib
-requests
-beautifulsoup4
 gunicorn
+duckdb
+beautifulsoup4
+lxml
 
